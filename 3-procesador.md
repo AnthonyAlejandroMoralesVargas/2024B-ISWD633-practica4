@@ -10,7 +10,7 @@ Asignar núcleos de CPU específicos:
 ```
 
 **¿Como saber el numero de procesadores virtuales que tiene una máquina?**
-## COMPLETAR
+De manera gráfica se puede conocer el número de procesadores virtuales accediendo a Administrador de Tareast>Rendimiento>CPU. En este caso el número de procesadores virtuales es 4.
 
 ## Ejemplos
 _Puedes copiar y ejecutar directamente cada uno de los comandos_
